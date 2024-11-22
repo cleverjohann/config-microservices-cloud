@@ -1,6 +1,6 @@
 # config-microservices-cloud/producto.yml
 server:
-  port: 8081
+  port: 8091
 
 spring:
   datasource:
