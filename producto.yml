@@ -10,8 +10,5 @@ spring:
     password: Admin123
   jpa:
     hibernate:
-      ddl-auto: update   
-  jpa:
-    hibernate:
       ddl-auto: update
     show-sql: true
