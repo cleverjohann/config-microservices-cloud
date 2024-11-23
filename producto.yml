@@ -1,7 +1,4 @@
 # config-microservices-cloud/producto.yml
-server:
-  port: 8080
-
 spring:
   datasource:
     driver-class-name: org.postgresql.Driver
